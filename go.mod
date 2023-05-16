@@ -33,7 +33,9 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.6.1
 	github.com/xeipuuv/gojsonschema v1.2.0
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.8.1-0.20230320201749-6960703597ad // indirect
+	golang.org/x/sys v0.6.1-0.20230317000753-00d8004a1448 // indirect
 	k8s.io/api v0.18.8
 	k8s.io/apiextensions-apiserver v0.18.8
 	k8s.io/apimachinery v0.18.8
